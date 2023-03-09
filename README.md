@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/D21xbUg.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 - Inside your VM, right-click the windows icon right next to the search bar click on run and in the search bar type "control" then scroll down to programs click on programs and inside programs click on "turn windows features on or off"
 <img src="https://i.imgur.com/AWaK6CZ.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-- After clicking on clicking "turn windows features on or off" go down to "Internet information services" and make sure that box is filled in. Then from there expand "Internet information services" and go down to World wide web services it should already be filled in, expand that as well. Lastly, expand application development features, go down until you see "CGI" and check the box.
+- After clicking on "turn windows features on or off" go down to "Internet information services" and make sure that box is filled in. Then from there expand "Internet information services" and go down to World wide web services it should already be filled in, expand that as well. Lastly, expand application development features, go down until you see "CGI" and check the box.
 <img src="https://i.imgur.com/emCHmuq.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Installation Steps</h2>
