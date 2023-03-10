@@ -31,25 +31,52 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xykNeNJ.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The first thing you would need to download for osTicket is "PHP Manager for IIS" without this, we wouldnt be able to enable certain settings that is needed to run osTicket. After the initial download, make sure to double click "PHP Manager for IIS" in your downloads folder to finish the download.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9SlCpRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next thing you would need to install for osTicket is the "Rewrite module" for both the "PHP manager for IIS" and the "Rewrite Module", you would only need to press next until you get the option to fully install then click install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nuysGcu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now you would need to create the "PHP" file in the C: in your VM. Next, download "PHP 7.3.8" and extract the contents inside of "PHP 7.3.8" into the PHP folder inside of the C: you just made.(It would be easiest to open up another file window while doing this). Right click on the "PHP 7.3.8" file you just downloaded, it should give you an option to "extract all", click on that. After, you would need to click "browse" and go to your Windows (c:) in "This PC" and select the PHP folder you just made.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/cbAfocr.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next you would download and install "Redist"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zcg0Ldu.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now you would download "My SQL" and when you are doing the installation process, select "typical setup" and then Install. In the next section, you would select "Standard Configuration" and type in a reliable password that you would remember and then click next and Install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GqC8fUf.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next you open IIS as an Administrator then go to "PHP manager". Inside there, look at "PHP Setup" and there should be an option underneath that reads "Register new PHP version", select that then a bar should come up with 3 dots on the right hand side of it. The 3 dots basically mean "browse" so you would click on those 3 dots then go into the windows (c:) and click the PHP folder that we made earlier and all the way at the bottom of the folder it should say "PHP-CGI" select that and click "open". After you are finished registering the new php version, go back to the main screen that intially popped up when you ran IIS as an administrator and on the far right hand side, click on the icon that signifies refreshing the page.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Dui17En.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
