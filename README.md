@@ -82,7 +82,7 @@ Next you open IIS as an Administrator then go to "PHP manager". Inside there, lo
 <img src="https://i.imgur.com/Dui17En.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After registering the new PHP version, you download osTicket, after downloading osTicket, you open the osTicket file folder and there should be two folders inside that read "scripts" and "upload". In a seperate file explorer app, go into the Windows (c:) and go to the folder that reads "inetpub" and open it up. After opening the inetpub folder, open up the wwwroot folder that should be at the bottom. Next you would drag the upload folder that was downloaded inside of the osTicket folder inside of the wwwroot folder and rename the upload folder "osTicket". If you dont have it open already, open IIS as an administrator and restart the page again.
+After registering the new PHP version, you download osTicket, after downloading osTicket, you open the osTicket file folder and there should be two folders inside that read "scripts" and "upload". In a seperate file explorer app, go into the Windows (c:) and go to the folder that reads "inetpub" and open it up. After opening the inetpub folder, open up the wwwroot folder that should be at the bottom. Next you would drag the upload folder that was downloaded inside of the osTicket folder to the  wwwroot folder and rename the upload folder "osTicket". If you dont have it open already, open IIS as an administrator and restart the page again.
 </p>
 <br />
 
