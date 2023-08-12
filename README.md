@@ -57,8 +57,7 @@ Next you would download and install "Redist"
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/zcg0Ldu.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-08-11 160440](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/a3820d24-afe7-43da-919c-4b3b19d32f79)
 </p>
 <p>
 Now you would download "My SQL" and when you are doing the installation process, select "typical setup" and then Install. In the next section, you would select "Standard Configuration" and type in a reliable password that you would remember and then click next and Install.
