@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Inside your VM, right-click the windows icon right next to the search bar click on run and in the search bar type "control" then scroll down to programs click on programs and inside programs click on "turn windows features on or off"
 ![Annotation 2023-03-09 223311](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/7db039f9-4ec2-4f79-84e9-9cee0c163b5f)
 - After clicking on "turn windows features on or off" go down to "Internet information services" and make sure that box is filled in. Then from there expand "Internet information services" and go down to World wide web services it should already be filled in, expand that as well. Lastly, expand application development features, go down until you see "CGI" and check the box.
-<img src="https://i.imgur.com/emCHmuq.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-03-09 231620](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/d5461e74-f990-4f61-90e6-23009e0d138e)
 
 <h2>Installation Steps</h2>
 
