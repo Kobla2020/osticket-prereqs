@@ -43,8 +43,7 @@ The next thing you would need to install for osTicket is the "Rewrite module" fo
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/nuysGcu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 152448](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/715db7fa-4ad6-4d02-a2b3-313172db680e)
 </p>
 <p>
 Now you would need to create the "PHP" file in the C: in your VM. Next, download "PHP 7.3.8" and extract the contents inside of "PHP 7.3.8" into the PHP folder inside of the C: you just made.(It would be easiest to open up another file window while doing this). Right click on the "PHP 7.3.8" file you just downloaded, it should give you an option to "extract all", click on that. After, you would need to click "browse" and go to your Windows (c:) in "This PC" and select the PHP folder you just made.
