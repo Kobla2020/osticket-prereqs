@@ -64,8 +64,7 @@ Now you would download "My SQL" and when you are doing the installation process,
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/GqC8fUf.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 154205](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/f82fd8f4-c9bd-40a0-9939-3453ea78760d)
 </p>
 <p>
 Next you open IIS as an Administrator then go to "PHP manager". Inside there, look at "PHP Setup" and there should be an option underneath that reads "Register new PHP version", select that then a bar should come up with 3 dots on the right hand side of it. The 3 dots basically mean "browse" so you would click on those 3 dots then go into the windows (c:) and click the PHP folder that we made earlier and all the way at the bottom of the folder it should say "PHP-CGI" select that and click "open". After you are finished registering the new php version, go back to the main screen that intially popped up when you ran IIS as an administrator and on the far right hand side, click on the icon that signifies refreshing the page.
