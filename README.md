@@ -50,8 +50,7 @@ Now you would need to create the "PHP" file in the C: in your VM. Next, download
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/cbAfocr.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-08-11 160323](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/7d5d6910-cd0e-457c-88c6-9f3d58f645f9)
 </p>
 <p>
 Next you would download and install "Redist"
