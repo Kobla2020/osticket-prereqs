@@ -79,8 +79,7 @@ After registering the new PHP version, you download osTicket, after downloading 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/uwTpfHn.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 154754](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/b2ae6b84-a49b-4926-be82-8f71b74b64e0)
 </p>
 <p>
 Inside of IIS, on the far left side you should see the name of your VM. click the down arrow to expand the options, now you should see "Application pools" and right below that, you should see "sites". Click the arrow to expand "sites". Now you should see "Default website", expand that as well. Lastly, you should see the "upload" folder you renamed to "osTicket" click on that then on the far right hand side of IIS you should see something that says "browse *80:(http)". After clicking on that, it should open up an osTicket page in your browser.
