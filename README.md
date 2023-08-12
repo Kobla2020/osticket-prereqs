@@ -36,8 +36,7 @@ The first thing you would need to download for osTicket is "PHP Manager for IIS"
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/9SlCpRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-08-11 160007](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/5df151a3-eb48-435b-9e43-f75875e1831b)
 </p>
 <p>
 The next thing you would need to install for osTicket is the "Rewrite module" for both the "PHP manager for IIS" and the "Rewrite Module", you would only need to press next until you get the option to fully install then click install.
