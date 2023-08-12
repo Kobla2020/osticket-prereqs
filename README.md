@@ -107,8 +107,7 @@ Now we're finally getting to osTicket! on the browser page, click continue and f
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/ZGW1RUM.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 164535](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/7dbc6dca-b85e-4485-8e98-fedd554c5467)
 </p>
 <p>
 At the bottom of the osTicket page in the browser, you should notice it has some prompts that ask you to enter: MYSQL USERNAME, MYSQL PASSWORD, MYSQL DATABASE. You should already know your "MYSQL password" because when we downloaded MYSQL earlier you made your MYSQL password but now we need to get your MYSQL username and database. Now you would need to download and install "Heidi SQL" after the installation, it should open up a new window and near the bottom left hand side of the window it should say "new", click on that and you should see a prompt where it says "user" then to the right of that it says "root" that is your "MY SQL username" and where it says "password", enter your password that you made when downloading MYSQL earlier. Now click on open at the bottom. There should be a rectangular shaped window to the left of the Heidi SQL window and inside of that window it reads "unnamed", Left click on unnamed and then click on the option that says "create new" then on the next mini window, it should say database which should be the only option that is not greyed out, click on that and type "osTicket" inside the bar. Now we have the username, password and the database. User is "root", Password is the password you made from earlier and the database is "osTicket". When you type all that in, click "install", and we finally installed osTicket!
