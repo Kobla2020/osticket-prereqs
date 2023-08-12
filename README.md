@@ -30,10 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/xykNeNJ.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Annotation 2023-08-11 155851](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/5c8bdf19-69dc-4fac-af29-ce347fe91c06)
+
 The first thing you would need to download for osTicket is "PHP Manager for IIS" without this, we wouldnt be able to enable certain settings that is needed to run osTicket. After the initial download, make sure to double click "PHP Manager for IIS" in your downloads folder to finish the download.
 </p>
 <br />
