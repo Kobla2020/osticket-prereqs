@@ -86,8 +86,7 @@ Inside of IIS, on the far left side you should see the name of your VM. click th
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/HhdIXI8.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 155409](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/20860f28-dee9-4ae0-9095-2a060c3be45b)
 </p>
 <p>
 As you open the osTicket page in the browser, you should notice that some of the features have an "x" and some have a check mark next to them. We need to change some of those "x's" to a checkmark. In order to do that, we need to go back into IIS then go into the PHP manager. after going into PHP manager, scroll all the way to the bottom until you see an option that says "PHP Extensions" then right below that it should say "enable or disable an extension", click on that. After going inside "enable or disable an extension", there are 3 features that we need to enable and they are: PHP_IMAP, PHP_INTL, PHP_OPCACHE. they should all be disabled, click on each one and on the right hand side of IIS it should have something that says "Actions" and underneath of it, you should be able to enable each of the extensions. After enabling the extensions, go back to the browser and refresh the osTicket page and you should notice some of the options that had an "x" previously next to it now have a checkmark.
