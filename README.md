@@ -100,8 +100,7 @@ Now you want to go back into file explorer and open up the Windows (c:) and go i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/8yIkrnL.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-08-11 161946](https://github.com/Kobla2020/osticket-prereqs/assets/127445078/2ef85e99-e8cd-4dc8-bb46-1552d885af53)
 </p>
 <p>
 Now we're finally getting to osTicket! on the browser page, click continue and fill in the credentials. Make sure to fill your username and password in with something that you will remember.
